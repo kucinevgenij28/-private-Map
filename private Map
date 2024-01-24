@@ -1,0 +1,3 @@
+public class GitRepository {
+    private Map<String, String[]> branches;
+    private String currentBranch;
